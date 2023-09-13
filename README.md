@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md Gousul Islam Hemonto</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-(https://arturhttps://res.cloudinary.com/practicaldev/image/fetch/s--_sk5cfBS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/xndmxrfhliweofif9jty.pngssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![image](https://github.com/mdgausulislam/mdgausulislam/assets/140383293/bbfbdf7b-d042-4835-8b0a-708b2d1e6140)
+
 
 - 🌱 I’m currently learning **ReactJs**
 
