@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Gousul Islam Hemonto</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdgausulislam&label=Profile%20views&color=0e75b6&style=flat" alt="mdgausulislam" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdgausulislam" alt="mdgausulislam" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/md_hemonto" target="blank"><img src="https://img.shields.io/twitter/follow/md_hemonto?logo=twitter&style=for-the-badge" alt="md_hemonto" /></a> </p>
-
 - 🌱 I’m currently learning **ReactJs**
 
 - 💬 Ask me about **HTML CSS JS and Bootstrap**
@@ -29,3 +23,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdgausulislam&show_icons=true&locale=en" alt="mdgausulislam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdgausulislam&" alt="mdgausulislam" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdgausulislam&label=Profile%20views&color=0e75b6&style=flat" alt="mdgausulislam" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdgausulislam" alt="mdgausulislam" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/md_hemonto" target="blank"><img src="https://img.shields.io/twitter/follow/md_hemonto?logo=twitter&style=for-the-badge" alt="md_hemonto" /></a> </p>
