@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gausulislam5@gmail.com**
 
-- 📄 My resume here https://drive.google.com/file/d/115VQ_r3d1bntZgrIiuY3ZrFPVXMN-O11/view?usp=sharing
+- 📄 My resume here [https://drive.google.com/file/d/115VQ_r3d1bntZgrIiuY3ZrFPVXMN-O11/view?usp=sharing](https://drive.google.com/file/d/1jwyNalMUgQTwfP8Gqz8oJFsvlFlDIbm6/view?usp=sharing)
 
 - ⚡ Fun fact **Coding**
 
